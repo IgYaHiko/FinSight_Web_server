@@ -1,6 +1,5 @@
 import jwt from "jsonwebtoken";
 import User from "../models/User.js";
-import { use } from "react";
 import { token } from "morgan";
 
 const generateToken = (id) => {
