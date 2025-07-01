@@ -5,7 +5,6 @@ node_modules/
 .env
 
 # Uploaded files
-uploads/
 
 # Dependency files
 package-lock.json
